@@ -1,11 +1,5 @@
-# 🤖 HooshCode Bot Suite
+# 🤖 HooshCode Bot Suite | مجموعه ربات‌های هوش کد
 
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-![Platform](https://img.shields.io/badge/Platform-Bale-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-Professional multi-bot ecosystem for Bale Messenger.
 <div align="center">
 
 **مجموعه‌ای حرفه‌ای از ۶ ربات کاربردی برای پیام‌رسان بله، با معماری یکپارچه، دیتابیس مشترک و پنل مدیریت متمرکز**
