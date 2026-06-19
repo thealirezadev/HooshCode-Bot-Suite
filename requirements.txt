@@ -1,0 +1,30 @@
+# ─── ارتباط HTTP ───
+requests>=2.31.0
+
+# ─── دیتابیس و تنظیمات ───
+python-dotenv>=1.0.0
+
+# ─── پردازش تصویر و PDF ───
+Pillow>=10.0.0
+PyMuPDF>=1.23.0
+pypdf>=4.0.0
+
+# ─── OCR محلی (فارسی + انگلیسی) ───
+easyocr>=1.7.1
+
+# ─── ساخت QR Code ───
+qrcode>=7.4.2
+
+# ─── اخبار و RSS ───
+feedparser>=6.0.10
+beautifulsoup4>=4.12.0
+schedule>=1.2.0
+jdatetime>=4.1.0
+
+# ─── هوش مصنوعی (OpenRouter از طریق SDK رسمی OpenAI) ───
+openai>=1.30.0
+
+# ─── نمودار هفتگی بازار ───
+matplotlib>=3.8.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
